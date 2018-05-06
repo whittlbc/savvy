@@ -12,7 +12,7 @@ $ pip install savvy
 
 [Shell](./savvy/shell.py) - Class for secure sys calls with automatic error handling and log management.
 
-More to come for sure.
+[AbstractApi](./savvy/api.py) - Class providing a REST-ful interface to an API url of choice.
 
 # License
 

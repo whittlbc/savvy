@@ -8,4 +8,7 @@ setup(name='savvy',
       author_email='benwhittle31@gmail.com',
       license='MIT',
       packages=find_packages(),
+      install_required=[
+        'requests==2.18.4'
+      ],
       zip_safe=False)
