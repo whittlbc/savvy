@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='savvy',
-      version='0.0.1',
+      version='0.0.2',
       description='Consolidated assortment of utility modules & classes for savvy Python development.',
       url='https://github.com/whittlbc/savvy',
       author='Ben Whittle',
